@@ -1,0 +1,121 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/StartScene.unity
+    guid: c642dd9f9c4e6894886a8b2b0cfc928c
+  - enabled: 1
+    path: Assets/Scenes/MapMenu.unity
+    guid: 0c19ed24db1002a42b59ce29703821ae
+  - enabled: 1
+    path: Assets/Scenes/Select.unity
+    guid: d8ad1468feb66124c9018fa0e003fea9
+  - enabled: 1
+    path: Assets/Scenes/Shops/ChestMenu.unity
+    guid: 912afa579f1a65a419185f30ad9ec35e
+  - enabled: 1
+    path: Assets/Scenes/Levels/Region1/Level6.unity
+    guid: aa8b89d142d2cb64b8a508dca5e6c68a
+  - enabled: 1
+    path: Assets/Scenes/Levels/Region1/Level1.unity
+    guid: 88d9f2622375fbe40aac0ce8729ba233
+  - enabled: 1
+    path: Assets/Scenes/Levels/Region1/Level3.unity
+    guid: 4aff1eed54e3bf24f8bf55cb3d256a9e
+  - enabled: 1
+    path: Assets/Scenes/Levels/Region1/Level2.unity
+    guid: 6375ad08994320c4598ed64051b145b0
+  - enabled: 1
+    path: Assets/Scenes/Levels/Region1/Level4.unity
+    guid: 7a5a1365b5f08134b850832921efea22
+  - enabled: 1
+    path: Assets/Scenes/Levels/Region1/Level5.unity
+    guid: 6688798cea8c99c469620f2e842904ca
+  - enabled: 1
+    path: Assets/Scenes/Levels/AllForOne.unity
+    guid: 8eb983654e9508e4e8ccca0f13db8bd1
+  - enabled: 1
+    path: Assets/Scenes/Levels/Defeat.unity
+    guid: 9218900e959143040a9f0e5395d39dec
+  - enabled: 1
+    path: Assets/Scenes/Levels/VIctory.unity
+    guid: 5612b7f2869e5f4458b6bec265ae6019
+  - enabled: 1
+    path: Assets/Scenes/Shops/Shop.unity
+    guid: e6b250f7fec8bfb45bea38e6fcad0661
+  - enabled: 0
+    path: Assets/Scenes/Levels/Training.unity
+    guid: f04fe30bbc1a5d9479fe787b4ab94578
+  - enabled: 1
+    path: Assets/Scenes/Shops/EnchantMenu.unity
+    guid: 72ffa60a3e497fc48abb500dd4f9d5ca
+  - enabled: 1
+    path: Assets/Scenes/Levels/BossRush.unity
+    guid: c76a2d167db73374da8ef19665464078
+  - enabled: 1
+    path: Assets/Scenes/LegendCraft.unity
+    guid: 125968cdb8569a74b92c18d175c911e7
+  - enabled: 1
+    path: Assets/Scenes/Levels/Region2/R2Level1.unity
+    guid: ebf92897ecf71654f8df36cdcd8cb2a8
+  - enabled: 1
+    path: Assets/Scenes/Levels/Region2/R2Level2.unity
+    guid: 781d1a653d04d274b8bf1ede75f33f68
+  - enabled: 1
+    path: Assets/Scenes/Levels/Region2/R2Level3.unity
+    guid: d39a33604e744d5478a176d3e89bbd65
+  - enabled: 1
+    path: Assets/Scenes/Levels/Region2/R2Level4.unity
+    guid: c7117ab33381c454b94dd71f8efbe302
+  - enabled: 1
+    path: Assets/Scenes/Levels/Region2/R2Level5.unity
+    guid: 1f2f38ef4c097a04cab05f81e0bcaa16
+  - enabled: 1
+    path: Assets/Scenes/Levels/Region2/R2Level6.unity
+    guid: b11dbb203eebb9049bd6b9f404cb3901
+  - enabled: 1
+    path: Assets/Scenes/Levels/Waves.unity
+    guid: 94e9bf9816ed0ea42850779640c61e0a
+  - enabled: 1
+    path: Assets/Scenes/Levels/Region4/R4Level19.unity
+    guid: 1abdb1a2d9059854d81a1343211a8f68
+  - enabled: 1
+    path: Assets/Scenes/Levels/Region3/R3Level18.unity
+    guid: 6d4b2edf195b53e449247df8277c88d1
+  - enabled: 1
+    path: Assets/Scenes/Levels/Region4/R4Level20.unity
+    guid: 658a10328e436654f9ebc2e029ccf25f
+  - enabled: 1
+    path: Assets/Scenes/Levels/Region4/R4Level22.unity
+    guid: 5fad813bff90ef347a55493b3db62d95
+  - enabled: 1
+    path: Assets/Scenes/Levels/Region4/R21Level21.unity
+    guid: 4711f7c5a3e946548ad55accc36b38da
+  - enabled: 1
+    path: Assets/Scenes/Levels/Region3/R3Level13.unity
+    guid: 02b959a09e1902740b382e8ba48cb7a1
+  - enabled: 1
+    path: Assets/Scenes/Levels/Region3/R3Level14.unity
+    guid: 4c6d110e39e27424c992d2135190dd2e
+  - enabled: 1
+    path: Assets/Scenes/Levels/Region3/R3Level15.unity
+    guid: aecfb8a5f9ba83d41b56d493aea5880c
+  - enabled: 1
+    path: Assets/Scenes/Levels/Region3/R3Level16.unity
+    guid: fc1a908ead7f8f44b9cba40397d57cad
+  - enabled: 1
+    path: Assets/Scenes/Levels/Region3/R3Level17.unity
+    guid: e6134685c55e13849a08a70c50eba1d4
+  - enabled: 1
+    path: Assets/Scenes/Levels/Adventure.unity
+    guid: 5c7212bc4bf25b246acd49ff64fd9191
+  - enabled: 1
+    path: Assets/Scenes/Levels/Battlefield.unity
+    guid: 1834d9ee02b0ceb4b8af745979a33564
+  m_configObjects:
+    com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: 0a53fba41581b1b488c29a1073cc5aa9, type: 2}
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: 34d1ab0330183c045aef17a4626db488, type: 2}

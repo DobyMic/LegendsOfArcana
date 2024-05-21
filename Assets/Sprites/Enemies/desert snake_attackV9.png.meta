@@ -1,0 +1,360 @@
+fileFormatVersion: 2
+guid: c700df695a435cd4d85eede3365bc22e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4060434840004557963
+    second: desert snake_attackV9_0
+  - first:
+      213: -3336833931337549375
+    second: desert snake_attackV9_1
+  - first:
+      213: 4673706874268567988
+    second: desert snake_attackV9_2
+  - first:
+      213: -8848853101023191235
+    second: desert snake_attackV9_3
+  - first:
+      213: 4242599185874474916
+    second: desert snake_attackV9_4
+  - first:
+      213: -6917450747568762639
+    second: desert snake_attackV9_5
+  - first:
+      213: -2395965833673178858
+    second: desert snake_attackV9_6
+  - first:
+      213: -2849072463649712723
+    second: desert snake_attackV9_7
+  - first:
+      213: 4093561898862153478
+    second: desert snake_attackV9_8
+  - first:
+      213: 7092815246025522661
+    second: desert snake_attackV9_9
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: desert snake_attackV9_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1692
+        width: 636
+        height: 564
+      alignment: 9
+      pivot: {x: 0.765, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57388efa60076a7c0800000000000000
+      internalID: -4060434840004557963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desert snake_attackV9_1
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 1692
+        width: 636
+        height: 564
+      alignment: 9
+      pivot: {x: 0.765, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c9b720083f21b1d0800000000000000
+      internalID: -3336833931337549375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desert snake_attackV9_2
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 1692
+        width: 636
+        height: 564
+      alignment: 9
+      pivot: {x: 0.765, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b94419c3a75cd040800000000000000
+      internalID: 4673706874268567988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desert snake_attackV9_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1128
+        width: 636
+        height: 564
+      alignment: 9
+      pivot: {x: 0.765, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3f16e3ecfe823580800000000000000
+      internalID: -8848853101023191235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desert snake_attackV9_4
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 1128
+        width: 636
+        height: 564
+      alignment: 9
+      pivot: {x: 0.765, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a7d8663b7db0ea30800000000000000
+      internalID: 4242599185874474916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desert snake_attackV9_5
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 1128
+        width: 636
+        height: 564
+      alignment: 9
+      pivot: {x: 0.765, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f057eff1374000a0800000000000000
+      internalID: -6917450747568762639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desert snake_attackV9_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 564
+        width: 637
+        height: 564
+      alignment: 9
+      pivot: {x: 0.765, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61100f5c4c1dfbed0800000000000000
+      internalID: -2395965833673178858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desert snake_attackV9_7
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 564
+        width: 637
+        height: 564
+      alignment: 9
+      pivot: {x: 0.765, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da5dfc870bf0678d0800000000000000
+      internalID: -2849072463649712723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desert snake_attackV9_8
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 564
+        width: 636
+        height: 564
+      alignment: 9
+      pivot: {x: 0.765, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60f80cfbbd04fc830800000000000000
+      internalID: 4093561898862153478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desert snake_attackV9_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 636
+        height: 564
+      alignment: 9
+      pivot: {x: 0.765, y: 0.42}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ed73dc03edbe6260800000000000000
+      internalID: 7092815246025522661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
